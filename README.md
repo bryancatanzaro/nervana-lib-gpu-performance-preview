@@ -13,7 +13,7 @@ sufficient for both learning and inference for several state-of-the-art
 deep networks.
 
 We are releasing this library to solicit feedback for our full
-release. In addition to being very high performance, it facilitates
+release. In addition to being very high performance, it will facilitate
 explorations of limited bit-width, integer-like numerical
 representations for deep networks.
 
@@ -38,10 +38,15 @@ enabling algorithmic explorations at different bit widths.
 4. The convolutional kernel features and function arguments are
 identical to those of cuDNN, with the addition of 3-D convolutions.
 
+This release supports a 16-bit representation using a 15-bit
+mantissa and sign bit. The integer word length (iwl) can be specified
+per tensor operand. The underlying operations use the native 32-bit 
+floating point arithmetic of the GPU.
+
 We have a library of fast kernels we use for our internal
 efforts. These kernels support a wider range of problem sizes,
-operations, and numerical formats. We plan to share them in a future
-release.
+operations, and numerical formats, and flexible bit-widths. We 
+plan to share them in a future release.
 
 #### Prior work
 
