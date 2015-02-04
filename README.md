@@ -56,7 +56,7 @@ described in Chetlur et al.<sup>[3](#refs)</sup>. The GEMM kernels are
 also based on NVIDIA's work as we previously noted
 [here](https://github.com/NervanaSystems/maxas/wiki/SGEMM).
 
-There are large number of academic results with CNNs and high quality
+There is a large number of academic results with CNNs and high quality
 open source packages<sup>[4-6](#refs)</sup> from which we have
 learned.  Note that a Fourier domain approach such as Vasilache et
 al.<sup>[5](#refs)</sup> can outperform our kernels for certain
