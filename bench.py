@@ -130,20 +130,20 @@ def layerwise(plot=False):
     c2u = np.array([98., 262., 100, 12, 27.])
     
     np.set_printoptions(precision=0)
-    print 'Our numbers (L1 L2 L3 L4 L5 in msec):'
+    print 'Our numbers (Layers 1-5 and total in msecs, lower is better):'
     print 
-    print '  forward: %s  total=%d' % (f, f.sum())
-    print '  backward: %s  total=%d' % (b+u, (b+u).sum())
-    print '  gradInput: %s  total=%d' % (b, b.sum())
+    print '  forward:    %s  total=%d' % (f, f.sum())
+    print '  backward:   %s  total=%d' % (b+u, (b+u).sum())
+    print '  gradInput:  %s  total=%d' % (b, b.sum())
     print '  gradWeight: %s  total=%d' % (u, u.sum())
 
     print
     print 'For comparison, cuDNN R2 reference numbers, from'
     print '  https://github.com/soumith/convnet-benchmarks (accessed 2/2/15):'
     print
-    print '  forward: %s  total=%d' % (c2f, c2f.sum())
-    print '  backward: %s  total=%d' % (c2b+c2u, (c2b+c2u).sum())
-    print '  gradInput: %s  total=%d' % (c2b, c2b.sum())
+    print '  forward:    %s  total=%d' % (c2f, c2f.sum())
+    print '  backward:   %s  total=%d' % (c2b+c2u, (c2b+c2u).sum())
+    print '  gradInput:  %s  total=%d' % (c2b, c2b.sum())
     print '  gradWeight: %s  total=%d' % (c2u, c2u.sum())
 
 if __name__ == '__main__':
