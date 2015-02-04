@@ -44,10 +44,6 @@ def go(N,C,K,D,H,W,T,R,S):
     F = np.random.randint(0x0, 0x7fff, size=dimF).astype(np.int64)
     E = np.random.randint(0x0, 0x7fff, size=dimO).astype(np.int64)
 
-    I.fill(0)
-    F.fill(0)
-    E.fill(0)
-
     # input integer word length
     iwl = 15
     
