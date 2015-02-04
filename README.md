@@ -98,7 +98,7 @@ and update kernels.
 
         % python bench.py
 
-        Our numbers:
+        Our numbers (L1-5 and total in msecs):
 
           forward: [  41.  112.   42.    5.    9.]  total=208
           backward: [ 139.  240.   87.    9.   18.]  total=493
