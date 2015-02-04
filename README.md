@@ -64,7 +64,7 @@ problem sizes at the cost of additional memory and flexibility.
 
 Andrew Lavin very recently demonstrated<sup>[7](#refs)</sup> a similar
 approach using [MaxAs](https://github.com/NervanaSystems/maxas) for
-performing forward prop in 32-bit floating point with full utilization
+performing fprop in 32-bit floating point with full utilization
 on Maxwell ([repository](https://github.com/eBay/maxDNN),
 [writeup](http://arxiv.org/abs/1501.06633)). The differences with our
 kernels are our 16-bit representation, support for backprop and update
