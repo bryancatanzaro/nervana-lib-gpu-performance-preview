@@ -9,7 +9,7 @@ multiply (GEMM) kernels, and automatically generated element-wise
 kernels. The kernels use an underlying 16-bit representation used in a
 recent paper by Courbariaux et al.<sup>[1](#refs)</sup> from the Bengio lab,
 where they demonstrate that representations as low as 12 bits are
-sufficent for both learning and inference for several state-of-the-art
+sufficient for both learning and inference for several state-of-the-art
 deep networks.
 
 We are releasing this library to solicit feedback for our full
@@ -49,7 +49,7 @@ Vanhoucke et al.<sup>[2](#refs)</sup> demonstrated limited-precision
 fixed-point SIMD optimizations for CPUs with significant speed
 improvements for inference in a mixed HMM/NN large vocabulary
 system. Coubariaux et al.<sup>[1](#refs)</sup> recently showed success
-with limited precision for both inference and learing.
+with limited precision for both inference and learning.
 
 We modeled our kernels' functionality on NVIDIA's cuDNN library
 described in Chetlur et al.<sup>[3](#refs)</sup>. The GEMM kernels are
