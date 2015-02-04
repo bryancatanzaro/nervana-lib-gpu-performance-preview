@@ -100,17 +100,17 @@ and update kernels.
 
         Our numbers (Layers 1-5 and total in msecs, lower is better):
 
-          forward: [  41.  112.   42.    5.    9.]  total=208
-          backward: [ 139.  240.   87.    9.   18.]  total=493
-          gradInput: [  81.  124.   46.    5.    9.]  total=264
+          forward:    [  41.  112.   42.    5.    9.]  total=208
+          backward:   [ 139.  240.   87.    9.   18.]  total=493
+          gradInput:  [  81.  124.   46.    5.    9.]  total=264
           gradWeight: [  58.  116.   41.    4.    9.]  total=228
 
         For comparison, cuDNN R2 reference numbers, from
         https://github.com/soumith/convnet-benchmarks (accessed 2/2/15):
 
-          forward: [  90.  218.   79.    9.   17.]  total=413
-          backward: [ 189.  606.  230.   27.   47.]  total=1099
-          gradInput: [  91.  344.  130.   15.   20.]  total=600
+          forward:    [  90.  218.   79.    9.   17.]  total=413
+          backward:   [ 189.  606.  230.   27.   47.]  total=1099
+          gradInput:  [  91.  344.  130.   15.   20.]  total=600
           gradWeight: [  98.  262.  100.   12.   27.]  total=499
 
 The scripts output basic performance metrics. For more detail, you can
