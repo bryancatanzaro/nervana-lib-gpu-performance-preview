@@ -1,0 +1,228 @@
+This pre-release Software is offered under the following types of licenses:
+1. ACADEMIC USE LICENSE – This license is ONLY applicable to student
+   researchers or faculty researchers at a university or non-profit research
+   institution for academic purposes only. The complete text of the license and
+   its terms and conditions are available below.
+2. NON-COMMERCIAL USE LICENSE – This license is ONLY applicable to individuals,
+   entities, private companies, and public companies for non-commercial
+   purposes only and for a limited time. The complete text of the license and
+   its terms and conditions are available below.
+3. SEPARATE/EXECUTED LICENSE AGREEMENTS - If you have entered into and executed
+   a separate license agreement with Nervana Systems, the terms and conditions
+   of such separate license agreement govern your use of the Software.
+
+If you wish to enter into a separate license agreement for use of this
+Software, contact Nervana Systems.
+
+-------------------------------------------------------------------------
+ACADEMIC USE LICENSE AGREEMENT
+
+This Software, as defined below, is owned by Nervana Systems, Inc. (“Nervana”),
+a Delaware Corporation.
+
+By using this Software, you “Licensee” agree to be bound by the terms of this
+ACADEMIC RESEARCH LICENSE AGREEMENT (“Agreement”). If Licensee does not wish to
+be bound by the terms of this Agreement, Licensee shall not use this Software
+in any manner whatsoever.
+
+1.  Definitions
+1.1.  “Software” means the (i) source code, (ii) documentation, (iii) object
+code for certain proprietary portions relating to Nervana hardware and (iv)
+updates or modifications which may be provided from time to time at Nervana’s
+discretion, of the software library in Python and C/C++ to design and run deep
+neural networks on different datasets with interchangeable backends for
+different hardware platforms, in floating point and Flexpoint™ numeric
+systems, identified by Nervana as “neon”.
+
+2.  License Grant
+2.1.  Nervana grants to Licensee a royalty-free, paid-up, nonexclusive,
+non-transferrable license to use the Software for non-commercial research and
+academic purposes only.
+
+3.  License Restrictions
+3.1.  Licensee may not use the Software for any commercial purposes,
+whatsoever.
+3.2.  Licensee may not sell, distribute, transfer or sub-license the Software,
+or any portion thereof, in any form, for any purpose, to any individual,
+institution or third party.
+3.3.  Licensee may not make the Software, or any portion thereof, available for
+downloading or copying, in any form, for any purpose.
+
+4.  Intellectual Property
+4.1.  Nervana owns all right, title and interest, including all patents,
+copyrights and other intellectual property rights, in and to the Software,
+including any and all updates, modifications and derivative works.
+
+5.  Termination
+5.1.  Nervana may terminate this Agreement, at any time, effective upon
+Licensee’s breach of any provision in this Agreement, provided however, Nervana
+shall provide Licensee written notice and five (5) days to cure such breach.
+5.2.  Licensee shall have the right, at any time, to terminate this Agreement
+without cause.
+5.3.  Upon termination of this Agreement for any reason, Licensee shall destroy
+all copies of the Software.
+
+6.  Confidential Information
+6.1.  The Software shall be treated as proprietary and confidential information
+and Licensee shall not disclose the confidential information or permit the
+confidential information to be disclosed, and shall use best efforts to secure
+and safeguard the Software against unauthorized disclosure.
+6.2.  The obligations of confidentiality shall not extend to any information
+(i) which is, or becomes generally available to the public, (ii) which was
+properly known by Licensee, without obligations of confidentiality, prior to
+disclosure by Nervana, (iii) which has been made available by Nervana to others
+without obligation of confidentiality or (iv) which is required to be disclosed
+by law or court order, provided, however, Licensee shall provide to Nervana
+prior notice of the intended disclosure and an opportunity to respond or object
+to such disclosure.
+
+7.  Academic Publications and Presentations
+7.1.  Prior to the publication or public presentation of any information
+relating to the Software, Licensee shall present such material, in writing, to
+Nervana for review and approval, such approval not to be unreasonably withheld.
+Any such approval request shall be given at least fourteen (14) days prior to
+publication or presentation.
+7.2.  Licensee agrees to acknowledge Nervana in any publications or
+presentations resulting from use of the Software. Nervana shall be acknowledged
+as “Nervana Systems, Inc.” In the event, and to the extent, Nervana adopts a
+trademark or tradename for the Software, Nervana shall notify Licensee of such
+adopted trademark or tradename, and Licensee may thereafter acknowledge the
+Software by such trademark or tradename in publications and presentations.
+
+8.  Representations and Warranties
+8.1.  Nervana represents to Licensee that Nervana has the right to grant the
+license on the Software and to enter into this Agreement.
+8.2.  Except as expressly set forth in this Agreement, and to the extent
+permitted by applicable law, Nervana makes no representations or warranties of
+any kind, expressed or implied.
+8.3.  The Software is provided free of charge, and, therefore, on an "as is"
+basis. Nervana expressly disclaims any and all expressed or implied warranties,
+including without limitation the warranties that it is free of defects, virus
+free, able to operate on an uninterrupted basis, able to operate with any other
+software or hardware, merchantable, fit for a particular purpose or
+non-interfering.
+8.4.  In no event shall Nervana be liable for any indirect, special, incidental
+or consequential damages arising out of, or in connection with the Software,
+this Agreement or its subject matter (including but not limited to loss of
+data, data being rendered inaccurate or unusable, losses sustained by Licensee
+or failure of Software to operate)
+8.5.  Nervana shall have no obligation to offer support services to Licensee,
+and nothing contained herein shall be interpreted as to require Nervana to
+provide maintenance, installation services, debugging, consultation, or
+end-user support of any kind.
+
+9.  Miscellaneous
+9.1.  The parties agree that this Agreement is the complete and exclusive
+agreement among the parties and supersedes all proposals and prior agreements
+whether written or oral, and all other communications among the parties
+relating to the Software.
+9.2.  This Agreement cannot be modified except in writing and signed by both
+parties.
+9.3.  Failure by either party at any time to enforce any of the provisions of
+this Agreement shall not constitute a waiver by such party of such provision
+nor in any way affect the validity of this Agreement.
+9.4.  This Agreement is governed by and shall be construed, interpreted, and
+applied in accordance with the laws of the State of California.
+--------------------------------------------------------------------------
+
+
+NON-COMMERCIAL USE LICENSE
+
+This Software, as defined below, is owned by Nervana Systems, Inc. (“Nervana”),
+a Delaware Corporation.
+
+By using this Software, you “Licensee” agree to be bound by the terms of this
+NON-COMMERCIAL USE LICENSE AGREEMENT (“Agreement”). If you do not wish to be
+bound by the terms of this Agreement, you shall not use this Software in any
+manner whatsoever.
+
+1.  Definition.
+1.1.  “Software” means the (i) source code, (ii) documentation, (iii) object
+code for certain proprietary portions relating to Nervana hardware and (iv)
+updates or modifications which may be provided from time to time at Nervana’s
+discretion, of the software library in Python and C/C++ to design and run deep
+neural networks on different datasets with interchangeable backends for
+different hardware platforms, in floating point and Flexpoint™ numeric
+systems, identified by Nervana as “neon”.
+
+2.  License Grant
+2.1.  Nervana grants to Licensee a royalty-free, limited, non-exclusive,
+non-transferrable, non-assignable license to use the Software for evaluation,
+testing and non-commercial purposes only.
+2.2.  Licensee understands and acknowledges that Software is “pre-release code”
+(i.e. in alpha or beta release), and may not be fully functional or may be
+subject to significant modifications and developments by Nervana.
+2.3.  Licensee understands and acknowledges that Nervana is interested in
+receiving feedback and information regarding the performance and use of the
+Software. As such, Licensee shall make good faith efforts to provide reports to
+Nervana concerning the evaluation and performance of the Software.
+
+3.  License Restrictions
+3.1.  Licensee may not provide access to the Software to any other individuals
+or third parties.
+3.2.  Licensee may not use the Software for any commercial purposes.
+3.3.  Licensee may not sell, distribute, transfer or sub-license the Software,
+or any portion thereof, in any form, for any purpose, to any individual,
+institution or third party. Notwithstanding the above.
+3.4.  Licensee may not reverse engineer, decompile, disassemble, modify or make
+derivative works of the Software, or any part of the Software.
+3.5.  Licensee may not make the Software, or any portion thereof, available for
+downloading or copying, in any form, for any purpose, except to those employees
+of Licensee pre-authorized by Nervana Systems.
+
+4.  Intellectual Property.
+4.1. Nervana owns all right, title and interest, including all patents,
+copyrights and other intellectual property rights, in and to the Software,
+including any and all updates, modifications and derivative works.
+
+5.  Term and Termination
+5.1.  This Agreement and the rights granted herein shall become effective as of
+the Effective Date and shall terminate six (6) months thereafter.
+5.2.  Nervana may terminate this Agreement at any time effective upon Licensee’s
+breach of any provision in this Agreement, provided however, Nervana shall
+provide Licensee written notice and five (5) days to cure such breach.
+5.3.  Licensee shall have the right, at any time, to terminate this Agreement
+without cause by written notice to Nervana, specifying the date of termination.
+Upon termination, Licensee shall return or destroy all copies of the Software.
+
+6.  Confidential Information.
+6.1.  The Software may contain information that is confidential and proprietary
+to Nervana. Licensee shall not disclose any such confidential information or
+permit the confidential information to be disclosed, and shall use best efforts
+to secure and safeguard the Software against unauthorized disclosure.
+
+7.  Representations and Warranties
+7.1.  Nervana represents to Licensee that Nervana has the right to grant the
+license on the Software and to enter into this Agreement.
+7.2.  Except as expressly set forth in this Agreement, and to the extent
+permitted by applicable law, Nervana makes no representations or warranties of
+any kind, expressed or implied.
+7.3.  TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED ON AN
+"AS IS" BASIS. NERVANA EXPRESSLY DISCLAIMS ANY AND ALL EXPRESSED OR IMPLIED
+WARRANTIES, INCLUDING WITHOUT LIMITATION THE WARRANTIES THAT IT IS FREE OF
+DEFECTS, VIRUS FREE, ABLE TO OPERATE ON AN UNINTERRUPTED BASIS, ABLE TO OPERATE
+WITH ANY OTHER SOFTWARE OR HARDWARE, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE
+OR NON-INTERFERING.
+7.4.  IN NO EVENT SHALL NERVANA BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL
+OR CONSEQUENTIAL DAMAGES ARISING OUT OF, OR IN CONNECTION WITH THE SOFTWARE,
+THIS AGREEMENT OR ITS SUBJECT MATTER (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA, DATA BEING RENDERED INACCURATE OR UNUSABLE, LOSSES SUSTAINED BY LICENSEE
+OR FAILURE OF SOFTWARE TO OPERATE).
+7.5.  NERVANA SHALL HAVE NO OBLIGATION TO OFFER SUPPORT SERVICES TO LICENSEE,
+AND NOTHING CONTAINED HEREIN SHALL BE INTERPRETED AS TO REQUIRE NERVANA TO
+PROVIDE MAINTENANCE, INSTALLATION SERVICES, DEBUGGING, CONSULTATION, OR
+END-USER SUPPORT OF ANY KIND.
+
+8.  Miscellaneous.
+8.1.  Licensee agrees that this Agreement is the complete and exclusive
+agreement among the parties and supersedes all proposals and prior
+agreements whether written or oral, and all other communications among the
+parties relating to the Software.
+8.2.  This Agreement cannot be modified except in writing and signed by both
+parties.
+8.3.  Failure by either party at any time to enforce any of the provisions
+of this Agreement shall not constitute a waiver by such party of such
+provision nor in any way affect the validity of this Agreement.
+8.4.  This Agreement is governed by and shall be construed, interpreted,
+and applied in accordance with the laws of the State of California.
+-------------------------------------------------------------------------
